@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ main()
+comment1.params=numbers
+comment1.target=int[]\ counter(java.lang.String)
+comment2.params=kismet\ bottom\ top
+comment2.target=java.lang.String\ drawStar(int[],\ int,\ int)
+comment3.params=kismet
+comment3.target=void\ printCount(int[])
+numComments=4
